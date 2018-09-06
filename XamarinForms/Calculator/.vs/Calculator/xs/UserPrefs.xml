@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E7087480-8AA8-49AA-8F6B-4C52E5F21C6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/MainPage.xaml">
+    <Files>
+      <File FileName="Calculator/MainPage.xaml" Line="11" Column="38" />
+      <File FileName="Calculator/MainPageViewModel.cs" Line="24" Column="14" />
+      <File FileName="Calculator/MainPage.xaml.cs" Line="13" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Calculator.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Calculator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3BFBB456-2707-433A-95AE-286A4A0FBD42" />
+  <MultiItemStartupConfigurations />
+</Properties>
